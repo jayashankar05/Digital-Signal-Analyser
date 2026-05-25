@@ -1,6 +1,6 @@
 # Digital Signal Analyzer
 
-A Python-based Digital Signal Processing (DSP) application with an interactive Tkinter GUI. This tool is designed to generate, process, and analyze digital signals in both the time and frequency domains. It serves as an excellent demonstration of core DSP concepts, making it ideal for educational purposes, interview preparations, or general signal analysis.vnfgjlfh,fasjfkdlsmcnkg
+A Python-based Digital Signal Processing (DSP) application with an interactive Tkinter GUI. This tool is designed to generate, process, and analyze digital signals in both the time and frequency domains. It serves as an excellent demonstration of core DSP concepts, making it ideal for educational purposes, interview preparations, or general signal analysis.
 
 ## Features
 
